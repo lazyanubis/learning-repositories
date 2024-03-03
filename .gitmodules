@@ -1,0 +1,19 @@
+[submodule "rust/hashbrown"]
+	path = rust/hashbrown
+	url = git@github.com:rust-lang/hashbrown.git
+[submodule "rust/bytes"]
+	path = rust/bytes
+	url = git@github.com:tokio-rs/bytes.git
+[submodule "rust/yew"]
+	path = rust/yew
+	url = git@github.com:yewstack/yew.git
+[submodule "rust/salvo"]
+	path = rust/salvo
+	url = git@github.com:salvo-rs/salvo.git
+[submodule "rust/stable-structures"]
+	path = rust/stable-structures
+	url = git@github.com:dfinity/stable-structures.git
+
+[submodule "flutter/packages"]
+	path = flutter/packages
+	url = git@github.com:flutter/packages.git
