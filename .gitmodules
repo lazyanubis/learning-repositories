@@ -9,7 +9,7 @@
 	url = git@github.com:yewstack/yew.git
 [submodule "rust/salvo"]
 	path = rust/salvo
-	url = git@github.com:lazyanubis/salvo.git
+	url = git@ssh.github.com:lazyanubis/salvo.git
 [submodule "rust/stable-structures"]
 	path = rust/stable-structures
 	url = git@github.com:dfinity/stable-structures.git
