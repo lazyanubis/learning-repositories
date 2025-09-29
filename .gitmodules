@@ -13,6 +13,9 @@
 [submodule "rust/stable-structures"]
 	path = rust/stable-structures
 	url = git@github.com:dfinity/stable-structures.git
+[submodule "rust/candid"]
+	path = rust/candid
+	url = git@github.com:dfinity/candid.git
 
 [submodule "flutter/packages"]
 	path = flutter/packages
