@@ -20,3 +20,13 @@
 [submodule "flutter/packages"]
 	path = flutter/packages
 	url = git@ssh.github.com:flutter/packages.git
+
+[submodule "blockchain/uniswap-v3"]
+	path = blockchain/uniswap-v3
+	url = git@github.com:Uniswap/v3-core.git
+[submodule "blockchain/uniswap-v2"]
+	path = blockchain/uniswap-v2
+	url = git@github.com:Uniswap/v2-core.git
+[submodule "blockchain/uniswap-v2-periphery"]
+	path = blockchain/uniswap-v2-periphery
+	url = git@github.com:Uniswap/v2-periphery.git
